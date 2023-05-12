@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Scala](https://img.shields.io/badge/Scala-Proficient-brightgreen?style=flat&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-Proficient-brightgreen?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Fluent-green?style=flat&logo=javascript&logoColor=white)
-![PL-SQL](https://img.shields.io/badge/PL-SQL-Fluent-green?style=flat&logo=node.js&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-Fluent-green?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Average-yellow?style=flat&logo=c%20sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Average-yellow?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Average-yellow?style=flat&logo=php&logoColor=white)
