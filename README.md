@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=75&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=1080&height=200&lines=Welcome+to+Andrea's+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=75&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=1080&height=150&lines=Welcome+to+Andrea's+profile!" alt="Typing SVG" /></a>
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
