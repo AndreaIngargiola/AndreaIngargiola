@@ -19,17 +19,19 @@ Here are some ideas to get you started:
 ![Scala](https://img.shields.io/badge/Scala-Proficient-brightgreen?style=flat&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-Proficient-brightgreen?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Fluent-green?style=flat&logo=javascript&logoColor=white)
+![PL-SQL](https://img.shields.io/badge/PL-SQL-Fluent-green?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Average-yellow?style=flat&logo=c%20sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Average-yellow?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Average-yellow?style=flat&logo=php&logoColor=white)
 #### Other techs
+![Akka](https://img.shields.io/badge/Akka-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-Intermediate-blue?style=flat&logo=docker&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-Fluent-green?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-Good-green?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Fluent-green?style=flat&logo=node.js&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-Fluent-green?style=flat&logo=node.js&logoColor=white)
 
-MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy.  
-Check out [my personal page](https://filocava99.github.io/mypage/) if you have time.
-
+MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy. 
+🔭 I’m currently working on distributed Java applications for the Internet of Things.
+🌱 I’m currently learning advanced classic Computer Vision technicques for real-time 3D imaging.
 
 ![](contributions.svg)
 
