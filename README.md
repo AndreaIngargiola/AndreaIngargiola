@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+Andrea's+profile!" alt="Typing SVG" /></a>
+
 #### Languages
 ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-Proficient-brightgreen?style=flat&logo=scala&logoColor=white)
@@ -35,8 +37,6 @@ MSc student of Engineering and Computer Science at the Alma Mater Studiorum Univ
 🔭 I’m currently working on distributed Java applications for the Internet of Things.
 
 🌱 I’m currently learning advanced classic Computer Vision technicques for real-time 3D imaging.
-
-![](contributions.svg)
 
 #### Random stats
 <table>
