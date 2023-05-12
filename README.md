@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 #### Languages
 ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-Beginner-orange?style=flat&logo=scala&logoColor=white)
@@ -75,4 +74,4 @@ Check out [my personal page](https://filocava99.github.io/mypage/) if you have t
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AndreaIngargiola&theme=synthwave)](https://github.com/AndreaIngargiola/github-profile-trophy) -->
--->
+
