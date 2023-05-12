@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 #### Other techs
 ![Akka](https://img.shields.io/badge/Akka-Proficient-brightgreen?style=flat&logo=java&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-Intermediate-blue?style=flat&logo=docker&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Fluent-green?style=flat&logo=node.js&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-Fluent-green?style=flat&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 
 MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy. 
 
