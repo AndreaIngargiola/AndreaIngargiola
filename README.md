@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 ![Gradle](https://img.shields.io/badge/Gradle-Fluent-green?style=flat&logo=node.js&logoColor=white)
 
 MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy. 
+
 🔭 I’m currently working on distributed Java applications for the Internet of Things.
+
 🌱 I’m currently learning advanced classic Computer Vision technicques for real-time 3D imaging.
 
 ![](contributions.svg)
