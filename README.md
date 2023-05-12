@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 ![Scala](https://img.shields.io/badge/Scala-Proficient-brightgreen?style=flat&logo=scala&logoColor=white)
 ![C](https://img.shields.io/badge/C-Proficient-brightgreen?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Fluent-green?style=flat&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Intermediate-blue?style=flat&logo=c%20sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Average-yellow?style=flat&logo=c%20sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Average-yellow?style=flat&logo=python&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-I%20hate%20it-red?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Average-yellow?style=flat&logo=php&logoColor=white)
 #### Other techs
-![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=flat&logo=docker&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-Fluent-green?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-Good-green?style=flat&logo=node.js&logoColor=white)
 
