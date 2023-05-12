@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ![CUDA](https://img.shields.io/badge/CUDA-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-Fluent-green?style=flat&logo=node.js&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-Fluent-green?style=flat&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Intermediate-blue?style=flat&logo=docker&logoColor=white)
 
 MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy. 
 
@@ -45,18 +46,6 @@ MSc student of Engineering and Computer Science at the Alma Mater Studiorum Univ
       </td>
       <td>
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaIngargiola&theme=synthwave&hide_border=false" width="500px" height="300px">
-      </td>
-   </tr>
-   <tr>
-      <td>
-         <a href="https://app.codiga.io/hub/user/github/AndreaIngargiola">
-            <img src="https://api.codiga.io/public/badge/user/github/AndreaIngargiola?style=dark" alt="codiga badge" />
-         </a>
-      </td>
-      <td>
-         <img
-            src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AndreaIngargiola&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-         width="500px" />
       </td>
    </tr>
    <tr>
