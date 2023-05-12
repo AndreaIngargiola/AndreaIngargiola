@@ -46,14 +46,6 @@ MSc student of Engineering and Computer Science at the Alma Mater Studiorum Univ
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaIngargiola&theme=synthwave&hide_border=false" width="500px" height="300px">
       </td>
    </tr>
-   <tr>
-      <td>
-         <img src="https://wakatime.com/share/@21eb5faa-0fd4-48bb-997c-5a76b58a864e/7cbaf3b0-ea31-4eb8-9f8d-698d2fd51196.svg" width="500px">
-      </td>
-      <td>
-         <img src="https://wakatime.com/share/@21eb5faa-0fd4-48bb-997c-5a76b58a864e/83c417df-a277-465e-adf0-933df82a9e60.svg" width="500px">
-      </td>
-   </tr>
 </table>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AndreaIngargiola&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
