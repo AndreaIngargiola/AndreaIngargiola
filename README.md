@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=75&pause=1000&color=FFFFFF&background=2B213A&center=true&vCenter=true&multiline=true&width=1080&height=150&lines=Welcome+to+Andrea's+profile!" alt="Typing SVG" /></a>
 
-MSc student of Engineering and Computer Science at the Alma Mater Studiorum University of Bologna, Italy. 
+MSc graduate in Computer Science and Engineering at the Alma Mater Studiorum University of Bologna, Italy.
+
 I’m currently working on advanced classic Computer Vision technicques for real-time 3D imaging.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AndreaIngargiola&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
